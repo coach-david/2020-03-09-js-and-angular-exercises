@@ -24,3 +24,10 @@ Exercises:
 Resources:
 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+#### Async
+
+Exercises:
+
+- [Battleship: CLI](https://codesandbox.io/s/battleship-cli-pfgwx)
+- [(Battleship: api)](https://codesandbox.io/s/battleship-api-vwuih)
